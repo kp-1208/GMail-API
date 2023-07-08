@@ -198,6 +198,6 @@ if __name__ == '__main__':
 ```bash
 python3 send_mail.py
 ```
-At the first time you will be prompted to enter you Google account credentials. Use the same credentials that you used to sign up in Google Cloud.
-![img12](img/img12.png)# GMail-API
+**At the first time you will be prompted to enter you Google account credentials. Use the same credentials that you used to sign up in Google Cloud.**
+# GMail-API
 This API is used to send automatic emails and can be used for sending emails without using any GUI.
